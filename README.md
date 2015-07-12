@@ -1,2 +1,3 @@
 # TestGit
-GitHub test
+GitHub test is repository for testing.
+
